@@ -1,9 +1,9 @@
 var s=[
 "2.html",
-"http://freesatoshi.info/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
-"http://www.lovebitcoin.eu/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
-"http://zoobit.co.in/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
-"http://rekbitcoin.com/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
+"http://bigbtc.win/?id=13625170",
+"http://claimfreebtc.win/?r=1FdS3JNP3KRv8mFLo18SF2pbMosjqoXxiB",
+"http://hotcoins.cf/?id=3655622",
+"",
 "http://faucetsatoshi.com/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
 "http://claimbit.co.uk/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
 "http://fastbtc.xyz/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
@@ -48,7 +48,7 @@ var s=[
 "http://www.breaktheco.in/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
 "http://www.safebitco.in/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
 "http://theearner.co.in/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY",
-"http://www.get-free-bitco.in/?r=1Mx3pjzQDt7fE1Qp7tG2QwFT24RvBQtuUY"
+"http://faucetgame.com/r/18751313/faucet"
 ];
 var adr,i,x=0,c=s.length;
 function address() {
