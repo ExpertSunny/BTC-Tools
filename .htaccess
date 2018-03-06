@@ -1,3 +1,0 @@
-RewriteEngine on
-        RewriteCond %{HTTP_HOST} ^www\.btctools\.cf$
-        RewriteRule ^/?$ "http\:\/\/btctools\.cf\/" [R=301,L]
